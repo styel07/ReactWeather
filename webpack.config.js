@@ -22,7 +22,7 @@ module.exports = {
   resolve : {
  	root: __dirname,
  	alias: {
- 		// Add your Alias and paths here
+ 		// Alias paths
  		Main: 'app/components/Main.jsx',
  		Navbar: 'app/components/Navbar.jsx',
     Weather: 'app/components/Weather.jsx',
